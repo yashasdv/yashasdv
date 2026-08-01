@@ -9,7 +9,7 @@
 
 <!-- ANIMATED TYPING TEXT -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Software+Engineer+in+Progress.;Writing+Clean,+Maintainable+Code.;Exploring+Java+•+DSA+•+AI.;Building+Projects+That+Matter.;Every+Commit+Counts.;Keep+Building." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Software%20Engineer%20in%20Progress.;Writing%20Clean,%20Maintainable%20Code.;Exploring%20Java%20%E2%80%A2%20DSA%20%E2%80%A2%20AI.;Building%20Projects%20That%20Matter.;Every%20Commit%20Counts.;Keep%20Building." alt="Typing SVG" />
 </a>
 
 <!-- SOCIAL BADGES -->
@@ -90,5 +90,4 @@
 
 <!-- ANIMATED WAVE FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:555555,100:000000&height=150&section=footer" width="100%"/>
-
 
