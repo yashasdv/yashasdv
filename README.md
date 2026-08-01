@@ -23,8 +23,9 @@
 <br/>
 
 <!-- ABOUT SECTION -->
-## ✦ About Me
-
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:222222,100:000000&height=120&text=About%20Me&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50" width="100%"/>
+</div>
 > - ▤ **Location:** Based in India
 > - ✉ **Contact:** Reach me at yashasdv027@gmail.com
 > - ⚙ **Currently Working On:** An AI-powered Programming Lab Feedback & Performance Analytics System
@@ -52,37 +53,25 @@
 ## ▤ GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashasdv&show_icons=true&theme=dark&hide_border=false&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&border_color=333333" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashasdv&layout=compact&theme=dark&hide_border=false&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=333333" width="49%"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=yashasdv&show_icons=true&theme=dark&hide_border=false&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&border_color=333333" width="49%"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yashasdv&layout=compact&theme=dark&hide_border=false&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=333333" width="49%"/>
 </div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashasdv&theme=dark&hide_border=false&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&border=333333" width="70%"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashasdv&theme=dark&no-bg=true&no-frame=false&column=7&margin-w=10" width="90%"/>
-</div>
 
 <br/>
 
-<!-- CONTRIBUTION SNAKE ANIMATION -->
-## ⎔ Contribution Graph
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yashasdv/yashasdv/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-> Set up the snake animation via GitHub Actions — instructions below ⬇️
-
-<br/>
 
 <!-- FEATURED PROJECTS -->
 ## ✧ Featured Projects
 
 <div align="center">
   <a href="https://github.com/yashasdv/codementor-ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yashasdv&repo=codementor-ai&theme=dark&hide_border=false&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=FFFFFF&border_color=333333" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:222222,100:000000&height=120&text=codementor-ai&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50" width="100%"/>
   </a>
 </div>
 
@@ -90,4 +79,7 @@
 
 <!-- ANIMATED WAVE FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:555555,100:000000&height=150&section=footer" width="100%"/>
+
+
+
 
