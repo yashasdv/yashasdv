@@ -1,26 +1,79 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Yashas DV
-==================================================================================================================================
+<div align="center">
 
-CSE Student | Aspiring AI Engineer
-----------------------------------
+# YASHAS DV
 
-Computer Science student passionate about Artificial Intelligence, software development, and problem-solving.
+`CSE STUDENT` | `ASPIRING AI ENGINEER`
 
-I believe the best way to learn is by building. This GitHub documents my journey as I explore programming, AI, machine learning, and modern software development through projects and continuous learning.
+*"Code. Learn. Improve. Repeat."*
 
-Always open to learning, collaborating, and building impactful technology.
+---
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [yashasdv027@gmail.com](mailto:yashasdv027@gmail.com)
-* 🚀  I'm currently working on [An AI-powered Programming Lab Feedback & Performance Analytics System](http://codementor-ai-3ac9c.web.app)
-* 🧠  I'm currently learning Java & Data Structures - Linux & Git - AI Fundamentals
-* 👥  I'm looking to collaborate on projects that solve real-world problems using AI.
-* 💬  "Artificial intelligence is a tool. Human creativity gives it purpose."
+</div>
+
+### ⚡ Quick Facts
+
+* 💻 Focused on writing clean, maintainable code.
+* ☕ Currently exploring Java, Data Structures & Algorithms, and AI.
+* 🛠️ Building projects with an emphasis on practical problem-solving.
+* 📚 Learning something new every day and documenting the journey.
+* 🧠 Interested in Software Engineering, System Design, and Intelligent Systems.
+* 🎯 Belief: Consistency outperforms intensity.
+* 🤝 Open to collaboration on meaningful open-source projects.
+
+---
+
+### 📖 Learning
 
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" alt="Java" title="Java" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a>
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Web_Development-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web Development" />
+  <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-000000?style=for-the-badge&logo=codeforces&logoColor=white" alt="Data Structures & Algorithms" />
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence" />
 </p>
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/yashasdv" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/linkedin.com/in/yashas-d-v-b25b38383" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+### 🛠️ Skills
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
+
+---
+
+### 📊 Coder Dashboard
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashasdv&show_icons=true&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=333333&hide_border=false" alt="Yashas DV's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashasdv&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff&border_color=333333&hide_border=false" alt="Top Languages" height="165" />
+</p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashasdv&theme=dark&background=000000&border=333333&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" height="165" />
+</p>
+
+---
+
+### 📇 Connect & Focus
+
+- 📍 **Location:** Based in India
+- 📬 **Contact:** Reach me at [yashasdv027@gmail.com](mailto:yashasdv027@gmail.com)
+- 💼 **Currently Working On:** [An AI-powered Programming Lab Feedback & Performance Analytics System](http://codementor-ai-3ac9c.web.app/)
+- 🤝 **Open To:** Collaborate on projects that solve real-world problems using AI
+- 💭 **Quote:** *"Artificial intelligence is a tool. Human creativity gives it purpose."*
+
+---
+
+```bash
+$ whoami
+> Coder | Learner | Problem Solver
+> Building in silence
+> Letting the code speak
+> Progress is the only proof.
+$ _
+```
