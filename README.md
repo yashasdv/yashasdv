@@ -1,85 +1,79 @@
-<!-- ============================================================
-   FUTURISTIC ANIMATED GITHUB PROFILE README
-   ============================================================ -->
-
 <div align="center">
 
-<!-- ANIMATED BANNER (capsule-render) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:555555,100:000000&height=220&section=header&text=Hi%20There,%20I'm%20Yashas%20DV&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=CSE%20student%20%7C%20Aspiring%20AI%20engineer&descAlignY=55&descSize=18" width="100%"/>
+# YASHAS DV
 
-<!-- ANIMATED TYPING TEXT -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=600&height=60&lines=Software%20Engineer%20in%20Progress.;Writing%20Clean,%20Maintainable%20Code.;Exploring%20Java%20%E2%80%A2%20DSA%20%E2%80%A2%20AI.;Building%20Projects%20That%20Matter.;Every%20Commit%20Counts.;Keep%20Building." alt="Typing SVG" />
-</a>
+`CSE STUDENT` | `ASPIRING AI ENGINEER`
 
-<!-- SOCIAL BADGES -->
-<p>
-  <a href="mailto:yashasdv027@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+*"Code. Learn. Improve. Repeat."*
+
+---
+
+</div>
+
+### ⚡ Quick Facts
+
+* 💻 Focused on writing clean, maintainable code.
+* ☕ Currently exploring Java, Data Structures & Algorithms, and AI.
+* 🛠️ Building projects with an emphasis on practical problem-solving.
+* 📚 Learning something new every day and documenting the journey.
+* 🧠 Interested in Software Engineering, System Design, and Intelligent Systems.
+* 🎯 Belief: Consistency outperforms intensity.
+* 🤝 Open to collaboration on meaningful open-source projects.
+
+---
+
+### 📖 Learning
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Web_Development-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web Development" />
+  <img src="https://img.shields.io/badge/Data_Structures_&_Algorithms-000000?style=for-the-badge&logo=codeforces&logoColor=white" alt="Data Structures & Algorithms" />
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence" />
 </p>
 
+---
 
-</div>
+### 🛠️ Skills
 
-<br/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
-<!-- ABOUT SECTION -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:222222,100:000000&height=120&text=About%20Me&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50" width="100%"/>
-</div>
-> - ▤ **Location:** Based in India
-> - ✉ **Contact:** Reach me at yashasdv027@gmail.com
-> - ⚙ **Currently Working On:** An AI-powered Programming Lab Feedback & Performance Analytics System
-> - ⬡ **Open To:** Collaborate on projects that solve real-world problems using AI
-> - ❝ **Quote:** "Artificial intelligence is a tool. Human creativity gives it purpose."
+---
 
-<br/><br/><br/><br/><br/>
+### 📊 Coder Dashboard
 
-<!-- TECH STACK -->
-## ⬢ Tech Stack
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=yashasdv&show_icons=true&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff&border_color=333333&hide_border=false" alt="Yashas DV's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashasdv&layout=compact&bg_color=000000&text_color=ffffff&title_color=ffffff&border_color=333333&hide_border=false" alt="Top Languages" height="165" />
+</p>
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashasdv&theme=dark&background=000000&border=333333&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" height="165" />
+</p>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-</div>
+---
 
-<br/>
+### 📇 Connect & Focus
 
-<!-- GITHUB STATS -->
-## ▤ GitHub Analytics
+- 📍 **Location:** Based in India
+- 📬 **Contact:** Reach me at [yashasdv027@gmail.com](mailto:yashasdv027@gmail.com)
+- 💼 **Currently Working On:** [An AI-powered Programming Lab Feedback & Performance Analytics System](http://codementor-ai-3ac9c.web.app/)
+- 🤝 **Open To:** Collaborate on projects that solve real-world problems using AI
+- 💭 **Quote:** *"Artificial intelligence is a tool. Human creativity gives it purpose."*
 
-<div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=yashasdv&show_icons=true&theme=dark&hide_border=false&bg_color=000000&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF&border_color=333333" width="49%"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=yashasdv&layout=compact&theme=dark&hide_border=false&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&border_color=333333" width="49%"/>
-</div>
+---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashasdv&theme=dark&hide_border=false&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&border=333333" width="70%"/>
-</div>
-
-
-<br/>
-
-
-
-<!-- FEATURED PROJECTS -->
-## ✧ Featured Projects
-
-<div align="center">
-  <a href="https://github.com/yashasdv/codementor-ai">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:222222,100:000000&height=120&text=codementor-ai&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50" width="100%"/>
-  </a>
-</div>
-
-<br/>
-
-<!-- ANIMATED WAVE FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:555555,100:000000&height=150&section=footer" width="100%"/>
-
-
-
-
+```bash
+$ whoami
+> Coder | Learner | Problem Solver
+> Building in silence
+> Letting the code speak
+> Progress is the only proof.
+$ _
+```
